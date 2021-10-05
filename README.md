@@ -6,7 +6,7 @@ The project of analyzing arbitrage opportunities by sorting through historical t
 
 ## Technologies
 
-This project leverages python 3.7 
+This project leverages jupyter Notebook
 ---
 
 ## Installation Guide
